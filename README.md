@@ -1,7 +1,3 @@
 # testgit
-f
-dfdf
-d
-f
-d
-fd
+
+## 잘못됨 수정함
